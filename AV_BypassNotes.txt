@@ -1,0 +1,5 @@
+## Test all exploits in a virtual machine that is as close to the victim's machine as possible.
+
+Javascript payload, use obfuscation: https://www.daftlogic.com/projects-online-javascript-obfuscator.htm
+
+Migrate code into an HTA, (see code example)
