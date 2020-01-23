@@ -2,4 +2,6 @@
 
 Javascript payload, use obfuscation: https://www.daftlogic.com/projects-online-javascript-obfuscator.htm
 
+Use Shelter to imbed payloads into a legitimate file, keep certificate: https://www.shellterproject.com/
+
 Migrate code into an HTA, (see code example)
