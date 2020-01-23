@@ -1,0 +1,21 @@
+
+
+
+
+
+## Questions
+
+- Can you please describe your network at a high level?
+
+- How many hosts do you have?
+  - What kind of OSs are used in the environment?
+
+- What type of services are you offering internally? (FTP server, etc.)
+
+- What type of security products are you using on endpoints and on the network?
+
+- Does the network traffic particularly sensitive data (e.g. PCI)?
+
+- Are there are assets that are considered out of scope or should be avoided?
+
+- For Red Teaming, what ingress methods will you permit? (e.g. phishing)
