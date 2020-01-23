@@ -12,6 +12,8 @@
 
 - What type of services are you offering internally? (FTP server, etc.)
 
+- What kind of browsers are in use by the users?
+
 - What type of security products are you using on endpoints and on the network?
 
 - Does the network traffic particularly sensitive data (e.g. PCI)?
