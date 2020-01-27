@@ -9,10 +9,10 @@
 
 - What kind of browsers are in use by the users?
 
-- What type of security products are you using on endpoints and on the network?
+- What type of security products are you using on endpoints, mail delivery, and on the network?
 
 - Does the network traffic particularly sensitive data (e.g. PCI)?
 
 - Are there are assets that are considered out of scope or should be avoided?
 
-- For Red Teaming, what ingress methods will you permit? (e.g. phishing)
+- For Red Teaming, what ingress methods will you permit? (e.g. phishing, physical access[thumb drives], vishing, etc.)
