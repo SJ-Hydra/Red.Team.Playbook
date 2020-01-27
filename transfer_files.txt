@@ -1,0 +1,12 @@
+## Methods to transfer files:
+
+Amazon S3 bucket file hosting.
+
+Use secure copy: http://www.hypexr.org/linux_scp_help.php
+
+Use SFTP: https://www.tecmint.com/sftp-command-examples/
+
+Use Apache
+
+
+
